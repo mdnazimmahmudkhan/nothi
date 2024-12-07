@@ -1,6 +1,6 @@
-## About Procure to Pay
+## About Procure to Sales
 
-Procure to Pay consists of the following:
+Procure to Sales consists of the following:
 
 - [Supplier]
 - [Quotation]
