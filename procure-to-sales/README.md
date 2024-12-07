@@ -2,7 +2,7 @@
 
 Procure to Pay consists of the following:
 
-- [Supplier].
+- [Supplier]
 - [Quotation]
 - [Purchase]
 - [Customer]
