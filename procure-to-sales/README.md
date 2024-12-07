@@ -8,3 +8,13 @@ Procure to Sales consists of the following:
 - [Customer]
 - [Sales]
 - [Distribution]
+- [Inventory]
+
+## Technologies
+
+- [Laravel]
+- [PostgreSQL]
+
+## Architecture
+
+- [Modular Monolith with DDD]
