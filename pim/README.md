@@ -12,6 +12,8 @@ PIM will have the following:
 
 - [Laravel]
 - [Mongodb]
+- [Redis]
+- [Others on demand]
 
 ## Architecture
 

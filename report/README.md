@@ -8,3 +8,7 @@ Report will have the following:
 
 - [Laravel]
 - [MySql]
+
+## Architecture
+
+- [Event-driven, CQRS]

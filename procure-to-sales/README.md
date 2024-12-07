@@ -14,7 +14,9 @@ Procure to Sales consists of the following:
 
 - [Laravel]
 - [PostgreSQL]
+- [Redis]
+- [Others on demand]
 
 ## Architecture
 
-- [Modular Monolith with DDD]
+- [Modular Monolith with DDD, Event-driven, CQRS]
