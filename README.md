@@ -1,2 +1,2 @@
 # nothi
-Nothi is a mini version of erp following SAAS architectue comprised from several micro services. Code management will follow monorepo architecture. 
+Nothi is a mini version of erp based on SAAS model following micro service architecture. It's a monorepo containing all the applications and packages. 
